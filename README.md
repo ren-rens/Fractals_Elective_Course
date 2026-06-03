@@ -10,4 +10,5 @@ The programming language on which the project could be is on your own preference
 
 ## To pass
 Grade >=3 on the pre-exam/exam
+
 Grade >=3 on the project
